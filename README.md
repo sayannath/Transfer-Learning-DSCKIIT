@@ -1,10 +1,10 @@
 # Transfer Learning DSCKIIT
 
 <img src="poster.jpeg">
-<img src="Graphs/1.jpeg">
-<img src="Graphs/2.jpeg">
-<img src="Graphs/3.jpeg">
-<img src="Graphs/4.jpeg">
+<img src="Graphs/1.png">
+<img src="Graphs/2.png">
+<img src="Graphs/3.png">
+<img src="Graphs/4.png">
 
 ## Developed & Maintained by
 <br>
