@@ -1,11 +1,13 @@
 # Transfer Learning DSCKIIT
 
-## Graphs using Transfer Learning
 <img src="poster.jpeg">
+
+## Graphs using Transfer Learning
+
 <img src="Graphs/1.png">
 <img src="Graphs/2.png">
 
-## Graphs using Transfer Learning
+## Graphs using CNN
 <img src="Graphs/3.png">
 <img src="Graphs/4.png">
 
